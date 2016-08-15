@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Console.Write("here");
             Console.WriteLine("Type your name");
             Console.WriteLine("Shubham Tholiya is new admin");
+            Console.WriteLine("Shubham Gandhi is new admin");
             Console.ReadLine();
         }
     }
